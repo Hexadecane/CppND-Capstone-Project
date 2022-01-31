@@ -1,6 +1,6 @@
 # Udacity CPPND Capstone project - "Tyrianoid"
 
-Created from the [Snake game starter repo](https://github.com/udacity/CppND-Capstone-Snake-Game) for the [Udacity C++ Nnanodegree Program](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213).
+Created from the [Snake game starter repo](https://github.com/udacity/CppND-Capstone-Snake-Game) for the [Udacity C++ Nanodegree Program](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213).
 This is the repository of my capstone project for it.
 
 This project is a simple endless arcade game. The player controls a spacecraft and must dodge a continuous volley of incoming asteroids.
